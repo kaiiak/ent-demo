@@ -15,4 +15,6 @@
 # vendor/
 
 ent/*
-!ent/schema/
+!ent/schema/*
+!ent/entc.go
+!ent/generate.go
